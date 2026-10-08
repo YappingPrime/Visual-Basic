@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95245BC-2D0B-9C5B-9A19-363DF40C20C4}|ConsoleApp1\\ConsoleApp1.vbproj|c:\\users\\furkan\\source\\repos\\consoleapp1\\consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F95245BC-2D0B-9C5B-9A19-363DF40C20C4}|ConsoleApp1\\ConsoleApp1.vbproj|solutionrelative:consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.vb",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeToolTip": "ConsoleApp1\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T10:42:46.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
