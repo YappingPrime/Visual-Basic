@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan\\source\\repos\\Dieren\\Dieren.vbproj": {}
+    "C:\\Users\\Furkan\\Visual-Basic\\Dieren\\Dieren.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan\\source\\repos\\Dieren\\Dieren.vbproj": {
+    "C:\\Users\\Furkan\\Visual-Basic\\Dieren\\Dieren.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\Dieren\\Dieren.vbproj",
+        "projectUniqueName": "C:\\Users\\Furkan\\Visual-Basic\\Dieren\\Dieren.vbproj",
         "projectName": "Dieren",
-        "projectPath": "C:\\Users\\Furkan\\source\\repos\\Dieren\\Dieren.vbproj",
+        "projectPath": "C:\\Users\\Furkan\\Visual-Basic\\Dieren\\Dieren.vbproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan\\source\\repos\\Dieren\\obj\\",
+        "outputPath": "C:\\Users\\Furkan\\Visual-Basic\\Dieren\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

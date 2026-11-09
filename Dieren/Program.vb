@@ -1,6 +1,6 @@
 Imports System
 
-Class Dier
+Public Class Dier
     Protected strKleur As String
 
     Public Sub New(strKleur As String)
@@ -15,7 +15,7 @@ Class Dier
     End Function
 End Class
 
-Class Hond
+Public Class Hond
     Inherits Dier
     Protected strBaasje As String
 
@@ -40,7 +40,7 @@ Class Hond
     End Sub
 End Class
 
-Class leeuw
+Public Class Leeuw
     Inherits Dier
     Protected strJungleNaam As String
 
