@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Wielrenner.vbproj": {}
+    "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Wielrenner.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Wielrenner.vbproj": {
+    "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Wielrenner.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Wielrenner.vbproj",
+        "projectUniqueName": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Wielrenner.vbproj",
         "projectName": "Wielrenner",
-        "projectPath": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Wielrenner.vbproj",
+        "projectPath": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Wielrenner.vbproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\obj\\",
+        "outputPath": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

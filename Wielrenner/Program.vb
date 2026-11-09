@@ -1,6 +1,6 @@
 Imports System
 
-Class Wielrenner
+Public Class Wielrenner
     Protected strNaam As String
     Protected intLeeftijd As Integer
     Protected strPloeg As String
@@ -15,7 +15,7 @@ Class Wielrenner
 
 End Class
 
-Class ProfWielrenner
+Public Class ProfWielrenner
     Inherits Wielrenner
     Private intAantalOverwinningen As Integer
     Private dblSalaris As Double
@@ -33,7 +33,7 @@ Class ProfWielrenner
     End Sub
 End Class
 
-Class AmateurWielrenner
+Public Class AmateurWielrenner
     Inherits Wielrenner
     Private intAantaldeelnames As Integer
     Private intAantalOverwinningen As Integer

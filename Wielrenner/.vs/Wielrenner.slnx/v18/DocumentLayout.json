@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C3C74B1-2C72-421A-894E-8BD39B0C8911}|Wielrenner.vbproj|c:\\users\\furkan\\source\\repos\\wielrenner\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0C3C74B1-2C72-421A-894E-8BD39B0C8911}|Wielrenner.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{8C8FCC2F-6F42-F546-2662-B9A91F670B34}|Wielrenner.vbproj|c:\\users\\furkan\\visual-basic\\wielrenner\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8C8FCC2F-6F42-F546-2662-B9A91F670B34}|Wielrenner.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\Wielrenner\\Program.vb",
+              "ToolTip": "C:\\Users\\Furkan\\Visual-Basic\\Wielrenner\\Program.vb",
               "RelativeToolTip": "Program.vb",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-11-07T10:18:36.291Z",
               "EditorCaption": ""
