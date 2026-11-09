@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Veelhoek"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+165ca4f36025982e9967181f7b0aa7567145c510"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Veelhoek"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Veelhoek"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

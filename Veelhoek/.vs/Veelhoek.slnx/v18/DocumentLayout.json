@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\Veelhoek\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Visual-Basic\\Veelhoek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23FCD5BE-DF07-E760-0BA6-293F69FDD702}|Veelhoek.vbproj|c:\\users\\furkan\\source\\repos\\veelhoek\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{23FCD5BE-DF07-E760-0BA6-293F69FDD702}|Veelhoek.vbproj|c:\\users\\furkan\\visual-basic\\veelhoek\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{23FCD5BE-DF07-E760-0BA6-293F69FDD702}|Veelhoek.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\Veelhoek\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Visual-Basic\\Veelhoek\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\Veelhoek\\Program.vb",
+              "ToolTip": "C:\\Users\\Furkan\\Visual-Basic\\Veelhoek\\Program.vb",
               "RelativeToolTip": "Program.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",

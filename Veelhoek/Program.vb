@@ -1,5 +1,5 @@
 Imports System
-Class Veelhoek
+Public Class Veelhoek
     Protected intAantalZijden As Integer
     Protected dblLengteZijde As Double
     Public Sub New(intAantalZijden As Integer, dblLengteZijde As Double)
@@ -8,7 +8,7 @@ Class Veelhoek
     End Sub
 End Class
 
-Class Vierkant
+Public Class Vierkant
     Inherits Veelhoek
     Public Sub New(dblLengteZijde As Double)
         MyBase.New(4, dblLengteZijde)
