@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.AssemblyInfo.vb
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Dieren\bin\Debug\net10.0\Dieren.exe
+C:\Users\Furkan\source\repos\Dieren\bin\Debug\net10.0\Dieren.deps.json
+C:\Users\Furkan\source\repos\Dieren\bin\Debug\net10.0\Dieren.runtimeconfig.json
+C:\Users\Furkan\source\repos\Dieren\bin\Debug\net10.0\Dieren.dll
+C:\Users\Furkan\source\repos\Dieren\bin\Debug\net10.0\Dieren.pdb
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.dll
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\refint\Dieren.dll
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.pdb
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\ref\Dieren.dll
+C:\Users\Furkan\source\repos\Dieren\obj\Debug\net10.0\Dieren.vbproj.Up2Date
