@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\Salamander\bin\Debug\net10.0\Salamander.exe
+C:\Users\Furkan\source\repos\Salamander\bin\Debug\net10.0\Salamander.deps.json
+C:\Users\Furkan\source\repos\Salamander\bin\Debug\net10.0\Salamander.runtimeconfig.json
+C:\Users\Furkan\source\repos\Salamander\bin\Debug\net10.0\Salamander.dll
+C:\Users\Furkan\source\repos\Salamander\bin\Debug\net10.0\Salamander.pdb
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.AssemblyInfo.vb
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.dll
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\refint\Salamander.dll
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.pdb
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\ref\Salamander.dll
+C:\Users\Furkan\source\repos\Salamander\obj\Debug\net10.0\Salamander.vbproj.Up2Date
