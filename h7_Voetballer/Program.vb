@@ -1,5 +1,5 @@
 Imports System
-Class Speler
+Public Class Speler
     Protected strNaam As String
 
     Public Sub New(strNaam As String)
@@ -11,7 +11,7 @@ Class Speler
 
 End Class
 
-Class Verdediger
+Public Class Verdediger
     Inherits Speler
     Public Sub New(strNaam As String)
         MyBase.New(strNaam)
@@ -25,7 +25,7 @@ Class Verdediger
     End Function
 End Class
 
-Class Aanvaller
+Public Class Aanvaller
     Inherits Speler
     Public Sub New(strNaam As String)
         MyBase.New(strNaam)

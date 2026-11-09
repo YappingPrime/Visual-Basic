@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F13D466-6721-4231-2B78-D9311C4E6475}|Oef 3 speler.vbproj|c:\\users\\furkan\\source\\repos\\oef 3 speler\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{9F13D466-6721-4231-2B78-D9311C4E6475}|Oef 3 speler.vbproj|c:\\users\\furkan\\visual-basic\\h7_voetballer\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{9F13D466-6721-4231-2B78-D9311C4E6475}|Oef 3 speler.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\Program.vb",
               "RelativeDocumentMoniker": "Program.vb",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\Program.vb",
+              "ToolTip": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\Program.vb",
               "RelativeToolTip": "Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-11-04T10:47:13.371Z",
               "EditorCaption": ""

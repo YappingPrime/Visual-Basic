@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\Oef 3 speler.vbproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\Oef 3 speler.vbproj",
       "projectName": "Oef 3 speler",
-      "projectPath": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\Oef 3 speler.vbproj",
+      "projectPath": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\Oef 3 speler.vbproj",
       "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furkan\\source\\repos\\Oef 3 speler\\obj\\",
+      "outputPath": "C:\\Users\\Furkan\\Visual-Basic\\h7_Voetballer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
