@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\Wielrenner\bin\Debug\net10.0\Wielrenner.exe
+C:\Users\Furkan\source\repos\Wielrenner\bin\Debug\net10.0\Wielrenner.deps.json
+C:\Users\Furkan\source\repos\Wielrenner\bin\Debug\net10.0\Wielrenner.runtimeconfig.json
+C:\Users\Furkan\source\repos\Wielrenner\bin\Debug\net10.0\Wielrenner.dll
+C:\Users\Furkan\source\repos\Wielrenner\bin\Debug\net10.0\Wielrenner.pdb
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.AssemblyInfo.vb
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.dll
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\refint\Wielrenner.dll
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.pdb
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\ref\Wielrenner.dll
+C:\Users\Furkan\source\repos\Wielrenner\obj\Debug\net10.0\Wielrenner.vbproj.Up2Date
