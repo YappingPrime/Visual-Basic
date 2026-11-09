@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Radio"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c655b5f134ab4a0cffc488fa529077fd72d234f4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Radio"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Radio"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

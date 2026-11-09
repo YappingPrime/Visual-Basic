@@ -2,7 +2,7 @@ Imports System
 Imports random
 Module Program
 
-    Class Radio
+    Public Class Radio
         Private song1 As String = "Quebec van Drake"
         Private song2 As String = "Suit & Tie van Justin Timberlake en Jay-Z"
         Private song3 As String = "Someone Like You van Adele"

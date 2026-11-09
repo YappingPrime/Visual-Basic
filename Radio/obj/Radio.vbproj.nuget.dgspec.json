@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan\\source\\repos\\Radio\\Radio.vbproj": {}
+    "C:\\Users\\Furkan\\Visual-Basic\\Radio\\Radio.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan\\source\\repos\\Radio\\Radio.vbproj": {
+    "C:\\Users\\Furkan\\Visual-Basic\\Radio\\Radio.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\Radio\\Radio.vbproj",
+        "projectUniqueName": "C:\\Users\\Furkan\\Visual-Basic\\Radio\\Radio.vbproj",
         "projectName": "Radio",
-        "projectPath": "C:\\Users\\Furkan\\source\\repos\\Radio\\Radio.vbproj",
+        "projectPath": "C:\\Users\\Furkan\\Visual-Basic\\Radio\\Radio.vbproj",
         "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan\\source\\repos\\Radio\\obj\\",
+        "outputPath": "C:\\Users\\Furkan\\Visual-Basic\\Radio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
