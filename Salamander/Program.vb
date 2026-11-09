@@ -1,6 +1,6 @@
 Imports System
 
-Class Salamander
+Public Class Salamander
     Protected intAantalPoten As Integer
     Protected intStaartLengteInCm As Integer
     Protected dblLongCapaciteitInLiter As Double
@@ -25,7 +25,7 @@ Class Salamander
 
 End Class
 
-Class Tijger
+Public Class Tijger
     Inherits Salamander
     Protected strHaarKleur As String
     Public Sub New()
@@ -40,7 +40,7 @@ Class Tijger
     End Function
 End Class
 
-Class Mens
+Public Class Mens
     Inherits Tijger
     Protected intAantalBenen As Integer
     Protected intAantalArmen As Integer
