@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\Oef 3 speler\bin\Debug\net10.0\Oef 3 speler.exe
+C:\Users\Furkan\source\repos\Oef 3 speler\bin\Debug\net10.0\Oef 3 speler.deps.json
+C:\Users\Furkan\source\repos\Oef 3 speler\bin\Debug\net10.0\Oef 3 speler.runtimeconfig.json
+C:\Users\Furkan\source\repos\Oef 3 speler\bin\Debug\net10.0\Oef 3 speler.dll
+C:\Users\Furkan\source\repos\Oef 3 speler\bin\Debug\net10.0\Oef 3 speler.pdb
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.AssemblyInfo.vb
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.dll
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\refint\Oef 3 speler.dll
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.pdb
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 speler.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\ref\Oef 3 speler.dll
+C:\Users\Furkan\source\repos\Oef 3 speler\obj\Debug\net10.0\Oef 3 sp.74523BBB.Up2Date

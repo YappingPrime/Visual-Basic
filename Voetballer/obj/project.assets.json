@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\Voetballer\\Voetballer.vbproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Visual-Basic\\Voetballer\\Voetballer.vbproj",
       "projectName": "Voetballer",
-      "projectPath": "C:\\Users\\Furkan\\source\\repos\\Voetballer\\Voetballer.vbproj",
+      "projectPath": "C:\\Users\\Furkan\\Visual-Basic\\Voetballer\\Voetballer.vbproj",
       "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furkan\\source\\repos\\Voetballer\\obj\\",
+      "outputPath": "C:\\Users\\Furkan\\Visual-Basic\\Voetballer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
