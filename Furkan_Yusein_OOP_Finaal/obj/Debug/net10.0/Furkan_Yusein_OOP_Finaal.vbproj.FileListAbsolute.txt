@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.AssemblyInfo.vb
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.vbproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\bin\Debug\net10.0\Furkan_Yusein_OOP_Finaal.exe
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\bin\Debug\net10.0\Furkan_Yusein_OOP_Finaal.deps.json
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\bin\Debug\net10.0\Furkan_Yusein_OOP_Finaal.runtimeconfig.json
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\bin\Debug\net10.0\Furkan_Yusein_OOP_Finaal.dll
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\bin\Debug\net10.0\Furkan_Yusein_OOP_Finaal.pdb
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.dll
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\refint\Furkan_Yusein_OOP_Finaal.dll
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.pdb
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Yusein_OOP_Finaal.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\ref\Furkan_Yusein_OOP_Finaal.dll
+C:\Users\Furkan\source\repos\Furkan_Yusein_OOP_Finaal\obj\Debug\net10.0\Furkan_Y.E9E1DE9D.Up2Date
